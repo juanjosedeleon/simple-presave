@@ -1,0 +1,6 @@
+@SimplePresave.Server_HostAddress = http://localhost:5147
+
+GET {{SimplePresave.Server_HostAddress}}/
+Accept: application/json
+
+###

@@ -1,0 +1,8 @@
+.spotify-logo {
+  width: 45px;
+  filter: invert()
+}
+
+.btn-presave {
+  text-transform: uppercase;
+}
